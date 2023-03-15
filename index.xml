@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mavas</title>
+    
+    
+    
+    <link>https://muntvydas.github.io/</link>
+    <description>Recent content on Mavas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Mar 2023 23:48:56 +0200</lastBuildDate>
+    
+	<atom:link href="https://muntvydas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mavas Pagrindinis</title>
+      <link>https://muntvydas.github.io/posts/pagrindinis/</link>
+      <pubDate>Wed, 15 Mar 2023 23:48:56 +0200</pubDate>
+      
+      <guid>https://muntvydas.github.io/posts/pagrindinis/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Siekiame kad klientai rastu tai, kas juos žavi, traukia ir įkvepia. Mūsų produktai skirti jūsų gyvenimą padaryti išskirtiniu, juos paprasta naudoti, jie yra labai spalvingi.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
